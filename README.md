@@ -635,3 +635,4 @@
 - (#634) Reflection: docs are a feature, not an afterthought.
 - (#635) Guideline: keep line length reasonable.
 - (#636) Reminder: update docs when behavior changes.
+- (#637) Tip: prefer relative links inside the repo.

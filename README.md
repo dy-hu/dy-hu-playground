@@ -740,3 +740,4 @@
 - (#739) Insight: good README > extensive wiki.
 - (#740) Practice: test the happy path first.
 - (#741) Tip: small PRs are easier to review.
+- (#742) Note: keep the README skimmable.

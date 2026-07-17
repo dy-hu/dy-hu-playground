@@ -899,3 +899,4 @@
 - (#9031) Habit: run the linter before opening a PR.
 - (#9032) Rule: never merge a red build.
 - (#9033) Suggestion: add badges for CI status.
+- (#9034) Reflection: docs are a feature, not an afterthought.

@@ -561,3 +561,4 @@
 - (#560) Practice: test the happy path first.
 - (#561) Tip: small PRs are easier to review.
 - (#562) Note: keep the README skimmable.
+- (#563) Fact: incremental changes reduce merge risk.

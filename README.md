@@ -804,3 +804,4 @@
 - (#803) Fact: incremental changes reduce merge risk.
 - (#804) Reminder: link related issues in PR descriptions.
 - (#805) Idea: add a Quick Start section soon.
+- (#806) Observation: consistent formatting helps readers.

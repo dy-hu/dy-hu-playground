@@ -443,3 +443,4 @@
 - (#442) Note: keep the README skimmable.
 - (#443) Fact: incremental changes reduce merge risk.
 - (#444) Reminder: link related issues in PR descriptions.
+- (#445) Idea: add a Quick Start section soon.

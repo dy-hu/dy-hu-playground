@@ -755,3 +755,4 @@
 - (#754) Reflection: docs are a feature, not an afterthought.
 - (#755) Guideline: keep line length reasonable.
 - (#756) Reminder: update docs when behavior changes.
+- (#757) Tip: prefer relative links inside the repo.

@@ -1043,3 +1043,4 @@
 - (#10012) Rule: never merge a red build.
 - (#10013) Suggestion: add badges for CI status.
 - (#20000) Practice: test the happy path first.
+- (#20001) Tip: small PRs are easier to review.

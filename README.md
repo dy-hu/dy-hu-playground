@@ -430,3 +430,4 @@
 - (#429) Convention: use present tense in commit messages.
 - (#430) Practice: one logical change per commit.
 - (#431) Habit: run the linter before opening a PR.
+- (#432) Rule: never merge a red build.

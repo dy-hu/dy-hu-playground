@@ -198,3 +198,4 @@
 - (#197) Tip: prefer relative links inside the repo.
 - (#198) Note: TODOs should reference an issue.
 - (#199) Insight: good README > extensive wiki.
+- (#200) Practice: test the happy path first.

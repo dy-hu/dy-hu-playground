@@ -352,3 +352,4 @@
 - (#351) Habit: run the linter before opening a PR.
 - (#352) Rule: never merge a red build.
 - (#353) Suggestion: add badges for CI status.
+- (#354) Reflection: docs are a feature, not an afterthought.

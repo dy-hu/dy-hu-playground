@@ -865,3 +865,4 @@
 - (#864) Reminder: link related issues in PR descriptions.
 - (#865) Idea: add a Quick Start section soon.
 - (#866) Observation: consistent formatting helps readers.
+- (#867) Nudge: prefer active voice in docs.

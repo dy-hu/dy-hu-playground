@@ -454,3 +454,4 @@
 - (#453) Suggestion: add badges for CI status.
 - (#454) Reflection: docs are a feature, not an afterthought.
 - (#455) Guideline: keep line length reasonable.
+- (#456) Reminder: update docs when behavior changes.

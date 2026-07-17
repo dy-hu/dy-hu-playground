@@ -411,3 +411,4 @@
 - (#410) Practice: one logical change per commit.
 - (#411) Habit: run the linter before opening a PR.
 - (#412) Rule: never merge a red build.
+- (#413) Suggestion: add badges for CI status.

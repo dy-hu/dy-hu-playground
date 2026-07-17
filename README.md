@@ -293,3 +293,4 @@
 - (#292) Rule: never merge a red build.
 - (#293) Suggestion: add badges for CI status.
 - (#294) Reflection: docs are a feature, not an afterthought.
+- (#295) Guideline: keep line length reasonable.

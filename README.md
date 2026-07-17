@@ -559,3 +559,4 @@
 - (#558) Note: TODOs should reference an issue.
 - (#559) Insight: good README > extensive wiki.
 - (#560) Practice: test the happy path first.
+- (#561) Tip: small PRs are easier to review.

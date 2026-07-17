@@ -95,3 +95,4 @@
 - (#94) Reflection: docs are a feature, not an afterthought.
 - (#95) Guideline: keep line length reasonable.
 - (#96) Reminder: update docs when behavior changes.
+- (#97) Tip: prefer relative links inside the repo.

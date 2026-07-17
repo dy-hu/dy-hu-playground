@@ -479,3 +479,4 @@
 - (#478) Note: TODOs should reference an issue.
 - (#479) Insight: good README > extensive wiki.
 - (#480) Practice: test the happy path first.
+- (#481) Tip: small PRs are easier to review.

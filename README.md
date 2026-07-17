@@ -900,3 +900,4 @@
 - (#9032) Rule: never merge a red build.
 - (#9033) Suggestion: add badges for CI status.
 - (#9034) Reflection: docs are a feature, not an afterthought.
+- (#9035) Guideline: keep line length reasonable.

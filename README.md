@@ -503,3 +503,4 @@
 - (#502) Note: keep the README skimmable.
 - (#503) Fact: incremental changes reduce merge risk.
 - (#504) Reminder: link related issues in PR descriptions.
+- (#505) Idea: add a Quick Start section soon.

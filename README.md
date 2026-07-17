@@ -166,3 +166,4 @@
 - (#165) Idea: add a Quick Start section soon.
 - (#166) Observation: consistent formatting helps readers.
 - (#167) Nudge: prefer active voice in docs.
+- (#168) Aside: examples clarify intent better than prose.

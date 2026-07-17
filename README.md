@@ -650,3 +650,4 @@
 - (#649) Convention: use present tense in commit messages.
 - (#650) Practice: one logical change per commit.
 - (#651) Habit: run the linter before opening a PR.
+- (#652) Rule: never merge a red build.

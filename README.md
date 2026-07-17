@@ -39,3 +39,4 @@
 - (#38) Note: TODOs should reference an issue.
 - (#39) Insight: good README > extensive wiki.
 - (#40) Practice: test the happy path first.
+- (#41) Tip: small PRs are easier to review.

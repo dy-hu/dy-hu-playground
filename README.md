@@ -247,3 +247,4 @@
 - (#246) Observation: consistent formatting helps readers.
 - (#247) Nudge: prefer active voice in docs.
 - (#248) Aside: examples clarify intent better than prose.
+- (#249) Convention: use present tense in commit messages.

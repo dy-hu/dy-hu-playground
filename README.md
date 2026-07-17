@@ -708,3 +708,4 @@
 - (#707) Nudge: prefer active voice in docs.
 - (#708) Aside: examples clarify intent better than prose.
 - (#709) Convention: use present tense in commit messages.
+- (#710) Practice: one logical change per commit.

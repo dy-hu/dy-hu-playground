@@ -773,3 +773,4 @@
 - (#772) Rule: never merge a red build.
 - (#773) Suggestion: add badges for CI status.
 - (#774) Reflection: docs are a feature, not an afterthought.
+- (#775) Guideline: keep line length reasonable.

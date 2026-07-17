@@ -300,3 +300,4 @@
 - (#299) Insight: good README > extensive wiki.
 - (#300) Practice: test the happy path first.
 - (#301) Tip: small PRs are easier to review.
+- (#302) Note: keep the README skimmable.

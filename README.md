@@ -664,3 +664,4 @@
 - (#663) Fact: incremental changes reduce merge risk.
 - (#664) Reminder: link related issues in PR descriptions.
 - (#665) Idea: add a Quick Start section soon.
+- (#666) Observation: consistent formatting helps readers.

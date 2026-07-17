@@ -60,3 +60,4 @@
 - (#59) Insight: good README > extensive wiki.
 - (#60) Practice: test the happy path first.
 - (#61) Tip: small PRs are easier to review.
+- (#62) Note: keep the README skimmable.

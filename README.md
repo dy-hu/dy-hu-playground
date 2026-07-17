@@ -867,3 +867,4 @@
 - (#866) Observation: consistent formatting helps readers.
 - (#867) Nudge: prefer active voice in docs.
 - (#9001) Tip: small PRs are easier to review.
+- (#9002) Note: keep the README skimmable.

@@ -710,3 +710,4 @@
 - (#709) Convention: use present tense in commit messages.
 - (#710) Practice: one logical change per commit.
 - (#711) Habit: run the linter before opening a PR.
+- (#712) Rule: never merge a red build.

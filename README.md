@@ -868,3 +868,4 @@
 - (#867) Nudge: prefer active voice in docs.
 - (#9001) Tip: small PRs are easier to review.
 - (#9002) Note: keep the README skimmable.
+- (#9003) Fact: incremental changes reduce merge risk.

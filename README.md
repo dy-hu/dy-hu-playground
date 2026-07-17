@@ -835,3 +835,4 @@
 - (#834) Reflection: docs are a feature, not an afterthought.
 - (#835) Guideline: keep line length reasonable.
 - (#836) Reminder: update docs when behavior changes.
+- (#837) Tip: prefer relative links inside the repo.

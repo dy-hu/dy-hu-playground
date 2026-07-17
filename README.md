@@ -223,3 +223,4 @@
 - (#222) Note: keep the README skimmable.
 - (#223) Fact: incremental changes reduce merge risk.
 - (#224) Reminder: link related issues in PR descriptions.
+- (#225) Idea: add a Quick Start section soon.

@@ -1048,3 +1048,4 @@
 - (#20003) Fact: incremental changes reduce merge risk.
 - (#20004) Reminder: link related issues in PR descriptions.
 - (#20005) Idea: add a Quick Start section soon.
+- (#20006) Observation: consistent formatting helps readers.

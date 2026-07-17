@@ -309,3 +309,4 @@
 - (#308) Aside: examples clarify intent better than prose.
 - (#309) Convention: use present tense in commit messages.
 - (#310) Practice: one logical change per commit.
+- (#311) Habit: run the linter before opening a PR.

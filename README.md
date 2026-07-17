@@ -1030,3 +1030,4 @@
 - (#9500) Practice: test the happy path first.
 - (#10000) Practice: test the happy path first.
 - (#10001) Tip: small PRs are easier to review.
+- (#10002) Note: keep the README skimmable.

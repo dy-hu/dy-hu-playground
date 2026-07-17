@@ -337,3 +337,4 @@
 - (#336) Reminder: update docs when behavior changes.
 - (#337) Tip: prefer relative links inside the repo.
 - (#338) Note: TODOs should reference an issue.
+- (#339) Insight: good README > extensive wiki.

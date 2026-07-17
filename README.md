@@ -416,3 +416,4 @@
 - (#415) Guideline: keep line length reasonable.
 - (#416) Reminder: update docs when behavior changes.
 - (#417) Tip: prefer relative links inside the repo.
+- (#418) Note: TODOs should reference an issue.

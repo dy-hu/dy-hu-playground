@@ -971,3 +971,4 @@
 - (#9103) Fact: incremental changes reduce merge risk.
 - (#9104) Reminder: link related issues in PR descriptions.
 - (#9105) Idea: add a Quick Start section soon.
+- (#9106) Observation: consistent formatting helps readers.

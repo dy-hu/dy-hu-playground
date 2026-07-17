@@ -75,3 +75,4 @@
 - (#74) Reflection: docs are a feature, not an afterthought.
 - (#75) Guideline: keep line length reasonable.
 - (#76) Reminder: update docs when behavior changes.
+- (#77) Tip: prefer relative links inside the repo.

@@ -965,3 +965,4 @@
 - (#9097) Tip: prefer relative links inside the repo.
 - (#9098) Note: TODOs should reference an issue.
 - (#9099) Insight: good README > extensive wiki.
+- (#9100) Practice: test the happy path first.

@@ -485,3 +485,4 @@
 - (#484) Reminder: link related issues in PR descriptions.
 - (#485) Idea: add a Quick Start section soon.
 - (#486) Observation: consistent formatting helps readers.
+- (#487) Nudge: prefer active voice in docs.

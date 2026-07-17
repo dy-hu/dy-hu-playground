@@ -605,3 +605,4 @@
 - (#604) Reminder: link related issues in PR descriptions.
 - (#605) Idea: add a Quick Start section soon.
 - (#606) Observation: consistent formatting helps readers.
+- (#607) Nudge: prefer active voice in docs.

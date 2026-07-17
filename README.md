@@ -13,3 +13,4 @@
 - (#12) Rule: never merge a red build.
 - (#13) Suggestion: add badges for CI status.
 - (#14) Reflection: docs are a feature, not an afterthought.
+- (#15) Guideline: keep line length reasonable.

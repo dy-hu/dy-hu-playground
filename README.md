@@ -525,3 +525,4 @@
 - (#524) Reminder: link related issues in PR descriptions.
 - (#525) Idea: add a Quick Start section soon.
 - (#526) Observation: consistent formatting helps readers.
+- (#527) Nudge: prefer active voice in docs.

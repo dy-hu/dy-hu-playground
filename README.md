@@ -1042,3 +1042,4 @@
 - (#10011) Habit: run the linter before opening a PR.
 - (#10012) Rule: never merge a red build.
 - (#10013) Suggestion: add badges for CI status.
+- (#20000) Practice: test the happy path first.

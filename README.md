@@ -90,3 +90,4 @@
 - (#89) Convention: use present tense in commit messages.
 - (#90) Practice: one logical change per commit.
 - (#91) Habit: run the linter before opening a PR.
+- (#92) Rule: never merge a red build.

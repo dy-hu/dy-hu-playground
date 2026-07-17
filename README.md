@@ -462,3 +462,4 @@
 - (#461) Tip: small PRs are easier to review.
 - (#462) Note: keep the README skimmable.
 - (#463) Fact: incremental changes reduce merge risk.
+- (#464) Reminder: link related issues in PR descriptions.
